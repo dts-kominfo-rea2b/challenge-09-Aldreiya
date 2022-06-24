@@ -1,6 +1,6 @@
 import './App.css';
-import './components/Header.js';
-import './components/Contact.js';
+import Header from './components/Header.js';
+import Contact from './components/Contact.js';
 
 // Uncomment untuk memuat daftar kontak
 import contacts from './data/contacts.json';
